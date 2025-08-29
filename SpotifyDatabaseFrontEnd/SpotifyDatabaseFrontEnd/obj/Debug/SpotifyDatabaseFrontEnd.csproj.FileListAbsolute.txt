@@ -1,0 +1,15 @@
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\bin\Debug\SpotifyDatabaseFrontEnd.exe.config
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\bin\Debug\SpotifyDatabaseFrontEnd.exe
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\bin\Debug\SpotifyDatabaseFrontEnd.pdb
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.Form1.resources
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.Properties.Resources.resources
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.exe
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.pdb
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.AlbumForm.resources
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.ArtistForm.resources
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.GenreForm.resources
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.PlaylistForm.resources
+C:\Users\audre\Downloads\databaseproject\SpotifyDatabaseFrontEnd\SpotifyDatabaseFrontEnd\obj\Debug\SpotifyDatabaseFrontEnd.TrackForm.resources
