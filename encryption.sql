@@ -1,14 +1,3 @@
-﻿--create database master key (dmk) to use in encryption using user-defined password
---used randomly genreated secure password
-create master key encryption by password = 'IZ_nYPz4h7H$W[B';
-
---create certificate for use in key creation
---subject clause just describes certificate
-create certificate encryptcert with subject = 'Spotify Database Encryption';
-
---create symmetric key using AES-256 encyption algorithm that is encrypted by the certificate
-create symmetric key symkey with algorithm = AES_256 encryption by certificate encryptcert;
-
 --due to encrypting after table creation alter tables to include column to hold
 --encrypted names data
 --use varbinary max becuase the names have varying lengths and some are relatively long
@@ -753,4 +742,5 @@ begin
     
     --close key
     close symmetric key symkey;
+
 end;
